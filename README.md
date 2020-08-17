@@ -72,10 +72,10 @@
   - #### Mascara de subred:
      Su función es indicar a los dispositivos qué parte de la dirección IP es el número de la red, incluyendo la subred, y qué parte 
      es la correspondiente al host.
-   - #### Router:
+  - #### Router:
      es un dispositivo que permite interconectar computadoras que funcionan en el marco de una red. Su función: se encarga de establecer 
      la ruta que destinará a cada paquete de datos dentro de una red informática.
-   - #### Switch
+  - #### Switch:
     Un switch o conmutador es un dispositivo de interconexión utilizado para conectar equipos en red formando lo que se conoce como una 
     red de área local (LAN) y cuyas especificaciones técnicas siguen el estándar conocido como Ethernet.
   - #### Topologia:
