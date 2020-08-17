@@ -6,10 +6,10 @@
 ###### Carnet: 201313875
 
 # Manual: Configuracion de Topología Practica 1
-1. ## Topologia realizada
+## 1. Topologia realizada
 ![Texto alternativo](/image/topologia_p1.png "Topologia")
 
-2. ## Configuracion de Rauter c3725
+## 2. Configuracion de Rauter c3725
   - Comandos utilizados
     - conf t
     - int f0/0  -> elegimos la interfaz a configurar
@@ -21,7 +21,7 @@
     
 ![Texto alternativo](/image/conf-rauter.png "Rauter")
 
-3. ## Configuracion de VPC
+## 3. Configuracion de VPC
   - Comandos utilizados
     - ip {ip} {Mascara de subred} gateway {ip de interfaz}
     - sh ip -> Muestra la configuracion de red de la vpc
@@ -38,7 +38,7 @@
     
 ![Texto alternativo]( /image/conf-linuxv.png "Tiny core")
 
-4. ## Pruebas de comunicacione entre las VPC y la maquina Virtual linux
+## 4. Pruebas de comunicacione entre las VPC y la maquina Virtual linux
   - ##### Prueva desde maquina virtual
 ![Texto alternativo]( /image/ping-virtual-vpcs.png "ping tiny")
   - ##### Prueba desde VPC1
