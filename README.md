@@ -77,7 +77,7 @@
      la ruta que destinará a cada paquete de datos dentro de una red informática.
    - #### Switch
     Un switch o conmutador es un dispositivo de interconexión utilizado para conectar equipos en red formando lo que se conoce como una 
-    red de área local (LAN) y cuyas especificaciones técnicas siguen el estándar conocido como Ethernet (o técnicamente IEEE 802.3).
+    red de área local (LAN) y cuyas especificaciones técnicas siguen el estándar conocido como Ethernet.
   - #### Topologia:
     el mapa físico o lógico de una red para intercambiar datos. En otras palabras, es la forma en que está diseñada la red, sea en el 
     plano físico o lógico.
